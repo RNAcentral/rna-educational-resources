@@ -1,11 +1,3 @@
----
-name: New Resource Submission
-about: Submit a new educational resource
-title: '[RESOURCE] '
-labels: 'new-resource'
-assignees: ''
----
-
 ## Resource Information
 
 **Title:**  
