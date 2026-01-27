@@ -5,8 +5,8 @@ A curated collection of educational resources for learning about RNA bioinformat
 ## About
 
 This repository aggregates training materials, tutorials, and educational resources related to:
-- [RNAcentral](rnacentral.org) database and tools
-- [Rfam](rfam.org) database and covariance models
+- [RNAcentral](https://rnacentral.org) database and tools
+- [Rfam](https://rfam.org) database and covariance models
 
 
 ## Target Audience
