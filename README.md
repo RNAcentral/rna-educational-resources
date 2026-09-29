@@ -30,8 +30,9 @@ Presentation materials for teaching
 
 ### Videos
 Recorded lectures and demonstrations
+- [Accessing RNA data programmatically with the Rfam and RNAcentral APIs](https://www.ebi.ac.uk/training/events/accessing-rna-data-programmatically-rfam-and-rnacentral-apis/), Recorded Webinar, EMBL-EBI, June 2026
 - [Using RNAcentral to explore and investigate non-coding RNA sequences](https://www.ebi.ac.uk/training/events/using-rnacentral-explore-and-investigate-non-coding-rna-sequences/), Recorded Webinar, EMBL-EBI, September 2023
-- [Annotating genomes with non-coding RNAs using Rfam and Infernal](https://www.ebi.ac.uk/training/events/annotating-genomes-non-coding-rnas-using-rfam-and-infernal/), Recorded Webinar, EMBL-EBI, May 2023 
+- [Annotating genomes with non-coding RNAs using Rfam and Infernal](https://www.ebi.ac.uk/training/events/annotating-genomes-non-coding-rnas-using-rfam-and-infernal/), Recorded Webinar, EMBL-EBI, May 2023
 
 ### Assignments & Exercises
 Practical exercises and problem sets
